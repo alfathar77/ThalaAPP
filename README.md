@@ -1,4 +1,4 @@
-# SiGen-Thal — Sistem Manajemen Genetik Thalasemia
+# Sistem Manajemen Genetik Thalasemia
 
 ## Cara Menjalankan
 
@@ -44,5 +44,4 @@ ThalasemiaAPP/
 
 ## Catatan
 - Pesan error hanya muncul saat terjadi input yang benar-benar salah (ID duplikat, password salah, dsb) — bukan ditampilkan terus-menerus sebagai label.
-- Tidak ada lagi halaman "Peta OOP" — tampilan difokuskan pada fungsi aplikasi.
 "# ThalaAPP" 
