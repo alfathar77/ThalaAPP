@@ -1,0 +1,37 @@
+[
+    {
+        "username": "admin",
+        "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "role": "admin",
+        "pasien_id": null,
+        "pasangan_id": null
+    },
+    {
+        "username": "Alfathar",
+        "password_hash": "07307784035fdc5cb2e003cb3d905a4782d034858b6a4699bf26c9804a378cae",
+        "role": "user",
+        "pasien_id": "008",
+        "pasangan_id": "007"
+    },
+    {
+        "username": "Alqi",
+        "password_hash": "a42c52c6b6ebd63a6651ec367a33a260f907647f4f37f9b2cc4831c751ceee86",
+        "role": "user",
+        "pasien_id": "009",
+        "pasangan_id": "010"
+    },
+    {
+        "username": "dimas",
+        "password_hash": "0f3930189e5709d3ce12e7aef7e4ba2e627c5e82e85ba82299d0bf6264b26d4f",
+        "role": "user",
+        "pasien_id": "011",
+        "pasangan_id": "012"
+    },
+    {
+        "username": "zaki",
+        "password_hash": "f557e0d3cabb6d8ca3368a7c00f826f6b89601bff28b443fade2bdc79810bfb7",
+        "role": "user",
+        "pasien_id": "013",
+        "pasangan_id": "014"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": "001",
+        "nama": "Subianto",
+        "jenis_kelamin": "Laki-laki",
+        "alel1": "t",
+        "alel2": "t",
+        "status": "Penderita"
+    },
+    {
+        "id": "002",
+        "nama": "Rakabuming",
+        "jenis_kelamin": "Laki-laki",
+        "alel1": "N",
+        "alel2": "t",
+        "status": "Carrier"
+    },
+    {
+        "id": "003",
+        "nama": "Alfathar",
+        "jenis_kelamin": "Laki-laki",
+        "alel1": "t",
+        "alel2": "t",
+        "status": "Penderita"
+    },
+    {
+        "id": "004",
+        "nama": "Selvi",
+        "jenis_kelamin": "Perempuan",
+        "alel1": "t",
+        "alel2": "t",
+        "status": "Penderita"
+    },
+    {
+        "id": "005",
+        "nama": "Siti Nurhaliza",
+        "jenis_kelamin": "Perempuan",
+        "alel1": "N",
+        "alel2": "t",
+        "status": "Carrier"
+    },
+    {
+        "id": "006",
+        "nama": "Dewi",
+        "jenis_kelamin": "Perempuan",
+        "alel1": "N",
+        "alel2": "N",
+        "status": "Normal"
+    },
+    {
+        "id": "007",
+        "nama": "lisa",
+        "jenis_kelamin": "Perempuan",
+        "alel1": "N",
+        "alel2": "N",
+        "status": "Normal"
+    },
+    {
+        "id": "008",
+        "nama": "Fatar",
+        "jenis_kelamin": "Laki-laki",
+        "alel1": "t",
+        "alel2": "t",
+        "status": "Penderita"
+    },
+    {
+        "id": "009",
+        "nama": "Alqi",
+        "jenis_kelamin": "Laki-laki",
+        "alel1": "N",
+        "alel2": "N",
+        "status": "Normal"
+    },
+    {
+        "id": "010",
+        "nama": "desi",
+        "jenis_kelamin": "Perempuan",
+        "alel1": "N",
+        "alel2": "t",
+        "status": "Carrier"
+    },
+    {
+        "id": "011",
+        "nama": "DImas",
+        "jenis_kelamin": "Laki-laki",
+        "alel1": "N",
+        "alel2": "N",
+        "status": "Normal"
+    },
+    {
+        "id": "012",
+        "nama": "natalia",
+        "jenis_kelamin": "Perempuan",
+        "alel1": "t",
+        "alel2": "t",
+        "status": "Penderita"
+    },
+    {
+        "id": "013",
+        "nama": "heiby",
+        "jenis_kelamin": "Laki-laki",
+        "alel1": "N",
+        "alel2": "N",
+        "status": "Normal"
+    },
+    {
+        "id": "014",
+        "nama": "jebret",
+        "jenis_kelamin": "Perempuan",
+        "alel1": "N",
+        "alel2": "t",
+        "status": "Carrier"
+    }
+]
